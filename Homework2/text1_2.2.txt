@@ -1,0 +1,4 @@
+2) verilmihs 6 reqemli ededin ilk 3 denesinin reqemleri cemi tap: example: 123600= 1+2+3
+programm
+init a 
+a=

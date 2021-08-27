@@ -1,0 +1,12 @@
+3 reqemli eded verilib. Bu ededin axirina 7 artir. Sonra cavabin 7% tap;
+programm
+init a
+set 123 to a
+init b
+Calculate b as a multiply 10
+init c
+Calculate c as b add 7
+init d 
+Calculate d as c multiply 7 divide 100
+show d 
+end programm

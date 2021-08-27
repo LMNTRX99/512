@@ -1,0 +1,35 @@
+5 dene eded verilib. Bunlardan 3 denesi 5 reqemli. 2 denesi ise 3 reqemlidir. 5 reqemli ededlerin 5% tap ,neticeleri vur bir birine. 
+    Sonra 3 reqemli ededlerin 3% tap ,neticeleri topla. Sonra yekunda alinan iki cavalarin her birinin 10%-ni tapib topla.
+programm
+init a 
+init b 
+init c 
+init d 
+init f 
+set 12345 to a 
+set 23451 to b
+set 43215 to c
+set 321 to d
+set 123 to f 
+init e 
+calculate e as a multiply 5 divide 100 
+init m 
+calculate m as b multiply 5 divide 100 
+init n 
+calculate n as c multiply 5 divide 100
+init w 
+calculate w as e multiply m multiply n 
+init k 
+calculate k as d multiply 3 divide 100 
+init p
+calculate p as f multiply 3 divide 100
+init r
+calculate r as p add k 
+init z
+calculate z as w multiply 10 divide 100
+init t
+calculate t as r multiply 10 divide 100
+int h 
+calculate h as t add z
+show h
+end programm 

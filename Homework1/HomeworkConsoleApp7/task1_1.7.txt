@@ -1,0 +1,20 @@
+2 dene eded verilib. I eded 4 reqemli II eded 7 reqemlidir.
+   I ededin 4%-ni tap. 
+   Sonra II ededin 9% ni tap. 
+   Sonra Cavalari toplayib 10 %ni tap.
+   
+   programm
+   init a 
+   init b 
+   set 1234 to a
+   set 1234567 to b 
+   init c 
+   calculate c as a multiply 4 divide 100;
+   init d 
+   calculate d as b multiply 9 divide 100;
+   init e 
+   calculate e as c add d 
+   init f 
+   calculate f as e multiply 10 divide 100
+   show f
+   end programm

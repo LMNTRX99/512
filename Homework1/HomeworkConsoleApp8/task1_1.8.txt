@@ -1,0 +1,19 @@
+3 dene 6 reqemli eded verilib. Her birinin 10 faizini tapib neticeleri topla. Alinan cavabin 10% tap.
+init a
+init b 
+init c 
+set 123456 to a 
+set 654321 to b
+set 123654 to c
+init d 
+Calculate d as a multiply 10 divide 100
+init e 
+Calculate e as b multiply 10 divide 100
+init f
+Calculate f as c multiply 10 divide 100
+init g 
+Calculate g as as d add e add f
+init h 
+Calculate h as g multiply 10 divide 100
+show h
+End programm

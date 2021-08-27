@@ -1,0 +1,22 @@
+1) verilmish 4 reqemli ededin reqemlerinin cemini tap
+programm 
+init a;
+set 1234 to a;
+init b;
+calculate b as reminder of a divide 10; ("4")
+init c;
+c= a-b;
+init d;
+calculate d as c divide 10
+init k
+calculate k as reminder of d divide 10; (3)
+init r
+calculate r as d minus k and divide 10; 
+init y;
+calculate y as reminder of r divide 10; (2)
+init h 
+calculate h as r minus y and divide 10;
+show h 
+end programm
+
+

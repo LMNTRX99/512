@@ -1,0 +1,24 @@
+3 dene 4 reqemli eded verilib.  I ededin 1%-ni, II ededin 2% , III ededin 3 % tap. 
+    Neticeleri bir birinden cix. Alinan cavabin ustune III ededin 7% faizini gel
+    
+    programm
+    init a
+    init b 
+    init c 
+    set 1234 to a 
+    set 4321 to b 
+    set 1243 to c 
+    init d 
+    calculate d as a multiply 1 divide 100
+    init k 
+    calculate k as b multiply 2 divide 100
+    init m
+    calculate m as c multiply 3 divide 100
+    init j
+    calculate j as d minus k minus m 
+     init q
+    calculate q as c multiply 7 divide 100
+    init w
+    calculate w as j add q
+    show w
+    end programm

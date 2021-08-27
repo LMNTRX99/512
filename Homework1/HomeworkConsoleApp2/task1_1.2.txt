@@ -1,0 +1,10 @@
+5 reqemli eded verilib. Bu ededin evvel  18 % sonra ise 3 % tap.
+programm
+init a
+set 12345 to a;
+init b;
+Calculate b as a mutiply 18 divide 100;
+init c;
+Calculate c as b multiply 3 divide 100;
+show c;
+end programm

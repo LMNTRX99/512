@@ -1,0 +1,41 @@
+15)* 7 dene eded verilib.Bunlardan 2 denesi 3 reqemlidir. 2 denesi 4 reqemlidir. 2 denesi 5 reqemlidir.1 denesi ise 6 reqemlidir.
+    3 reqemli ededleri topla , sonra bunlarin ustune gel 4 reqemli ededlerin bir birine vurulmasindan alinan cavabi.
+    Sonra neticenin axirina 7 reqemini artir. Sonra cavabin ustune gel 5 reqemli ededlerin cemini.
+    Sonra neticeden cix 3 reqemli ededlerin bir birine vurulmasindan alinan cavabin axirina 1 artirilmish variantini.
+    Sonra alinan cavabin ustune gel 6 reqemli ededi.
+    Sonra alinan cavabdan cix 3 reqemli ve 4 reqemli ededlerin cemini.
+    Sonra alinan cavabin 18% -ni sonra 3%-ni sonra 1% tap.
+    Sonra alinan cavabin ustune 5 reqemli ededlerin cemini gel.
+    programm
+    init a 
+    init b 
+    init c 
+    init d 
+    init e 
+    init f 
+    init t
+    set 123 to a 
+    set 321 to b 
+    set 1234 to t 
+    set 4321 to c 
+    set 12345 to d 
+    set 54321 to e 
+    set 123456 to f 
+    init q
+    Calculate q as a add b 
+    init p  
+    Calculate p as t multiply c 
+    init v 
+    calculate v as p add q
+    init s 
+    calculate s as v multiply 10 add 7 add d add e
+    init o 
+    calculate o as a multiply b multiply 10 add 1
+    init g 
+    calculate g as s minus o add f minus a minus b minus t minus minus c
+    init y 
+    calculate y as g multiply 18 divide 100 multiply 3 divide 100 mmultiply 1 divide 100
+    init k 
+    calculate k as y add d add e 
+    show k 
+    end programm 

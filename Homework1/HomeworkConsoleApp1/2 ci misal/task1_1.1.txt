@@ -1,0 +1,18 @@
+3 reqemli eded verilib. Bu ededin axirina hemin ededdin ozunu yapishdir. example: 333= 333333
+
+programm task 1_1.1
+
+init a
+set 666 to a
+
+init b
+
+Calculate b as a multiply 1000
+
+init c
+
+Calculate c as b add a
+
+show c 
+
+end programm

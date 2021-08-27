@@ -1,0 +1,29 @@
+14) 6 dene 6 reqemli eded verilib. Evvel hamisini topla . Sonra I ve III ededi  bir birine yapishdir ve bir eded al.  
+    I neticeden II neticeni cix. Alinan cavabin 10% tap. Neticenin uzerine V ve VI ededleri gel. Yekunda alinan cavabin 11% tap.
+programm
+init a;
+init b;
+init c;
+init d;
+init e;
+init f;
+set 123456 to a;
+set 245678 to b;
+set 892135 to c;
+set 423185 to d;
+set 567890 to e;
+set 325429 to f;
+init k;
+Calculate k as a add b add c add d add e add f;
+init l; 
+Calculate e as a multiply 1000000 add c ;
+init m;
+Calculate m as k minus l
+init r; 
+Calculate r as m multiply 10 divide 100;
+init p;
+Calculate p as r add e add f;
+init w;
+Calculate w as p multiply 11 divide 100
+show w;
+end programm.

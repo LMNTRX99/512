@@ -1,0 +1,14 @@
+ 4 reqemli eded verilib. Bu ededin evvelin 4 reqemi , axirina ise 44 ededini artir. Alinan cavabin 44 % tap.
+ programm
+init a
+ set 1234 to a
+ init b
+ Calculate b as a add 40000
+ init c
+ Calculate c as b multiply 100
+ init d 
+ Calculate d as c add 44
+ init e 
+ Calculate e as d multiply 44 divide 100
+ show e 
+ end programm

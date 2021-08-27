@@ -1,0 +1,20 @@
+programm task 1_1.0
+
+init a
+set 1357 to a
+
+init b
+
+Calculate b as a add 70000
+
+init c 
+ 
+Calculate c as b multiply 10
+
+init d
+
+Calculate d as c add 8
+
+show d 
+
+end programm

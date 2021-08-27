@@ -1,0 +1,39 @@
+ 4 dene 6 reqemli eded verilib. Ededlerin hamisinin 10 faizini tap ve topla. Sonra hamisinin 15 faizini tap ve topla. 
+    Sonra yekunda alinanlar iki cavabi vur biri birine. Alinan neticenin evvel 10% tap sonra ise hemin cavabin 11% tap.
+    
+    programm
+    init a 
+    init b 
+    init c 
+    init d 
+    set 123456 to a 
+    set 234567 to b
+    set 345678 to c 
+    set 456789 to d 
+    init e 
+    calculate e as a multiply 10 divide 100
+    init f
+    calculate f as b multiply 10 divide 100
+    init g 
+    calculate g as c multiply 10 divide 100
+    init h 
+    calculate h as d multiply 10 divide 100
+    init t as e add f add g add h
+    init l
+    calculate l as a multiply 15 divide 100
+    init m
+    calculate m as b multiply 15 divide 100
+    init n 
+    calculate n as c multiply 15 divide 100
+    init r
+    calculate r as d multiply 15 divide 100
+    init o 
+    calculate o as l add m add n add r
+    init w
+    calculator w as t multiply o 
+    init q 
+    calculator q as w nultiply 10 divide 100
+    init j
+    calculator j as q multiply 11 divide 100
+    show j
+    end programm

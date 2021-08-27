@@ -1,0 +1,18 @@
+2 dene 5 reqemli eded verilib. Bu ededleri toplayib. Alinan cavabin evveline ve axirina 5 artir. Neticenin 5 % tap
+programm
+init a
+init b
+set 12345 to a
+set 54321 to b
+init c
+Calculate c as a add b
+init d 
+Calculate d as c add 500000
+init e 
+Calculate e as d multiply 10
+init f 
+Calculate f as e add 5
+init g 
+Calculate g as f multiply 5 divide 100
+show g
+end programm 

@@ -1,0 +1,24 @@
+4 dene 5 reqemli eded verilib. Her I ededin ustune III ededi gel . II ededin usutune IV eeddi gel. 
+    Sonra cavablari vur birbirine. Alinan neticeden III ededin 3%-ni cix.
+programm
+
+init a;
+init b;
+init c;
+init d;
+set 12345 to a;
+set 56787 to b;
+set 90418 to c;
+set 67829 to d;
+init e
+Calculate e as a add c 
+init f
+Calculate f as b add d 
+init g 
+Calculate g as e multiply f 
+init z 
+Calculate z as c multiply 3 divide 100
+init k 
+Calculate k as g minus z
+show k 
+End programm

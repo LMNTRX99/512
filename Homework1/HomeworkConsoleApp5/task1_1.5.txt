@@ -1,0 +1,10 @@
+4 reqemli eded verilib. Bu ededin evvel 20%-ni ,  sonra ise cavabin 10% tap.  Alinan  cavabin kvadratini tap.  
+programm
+init a
+set 1234 to a
+init b 
+Calculate b as a multiply 20 divide 100
+init c
+Calculate c as b multiply 10 divide 100
+show c
+end programm
